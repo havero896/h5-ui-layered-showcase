@@ -14,7 +14,7 @@
 
 在支持 Skill 安装器的 Codex 中，可使用：
 
-    $skill-installer install https://github.com/gougouwen244-bit/h5-ui-layered-showcase/tree/main/skills/h5-ui-layered-showcase
+    $skill-installer install https://github.com/havero896/h5-ui-layered-showcase/tree/main/skills/h5-ui-layered-showcase
 
 也可以将 [Skill 文件夹](skills/h5-ui-layered-showcase/)整体放入所用 Agent 的 Skills 目录。其他平台的安装路径请以其当前文档为准。
 
